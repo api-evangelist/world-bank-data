@@ -1,0 +1,118 @@
+{
+    "name": "World Bank Data",
+    "description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/146-world-bank-data.jpg",
+    "tags": [
+        "data",
+        "financial",
+        "financial data",
+        "global",
+        "have api",
+        "international trade",
+        "orange report financial",
+        "photos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/world-bank-data\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "World Bank Data",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/146-world-bank-data.jpg",
+            "humanURL": "http:\/\/data.worldbank.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/world-bank-data-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.worldbank.org"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.worldbank.org\/opendata\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blogs.worldbank.org\/opendata\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/the-world-bank-group"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/world-bank"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/apidocs.data.world\/api"
+        },
+        {
+            "type": "Email",
+            "url": "archives@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "speakersbureau@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "books@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "migainquiry@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "logorequests@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "gprocurement@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "Update_VMR@worldbank.org"
+        },
+        {
+            "type": "Email",
+            "url": "askaccounting@worldbankgroup.org"
+        },
+        {
+            "type": "Email",
+            "url": "nbathily@worldbankgroup.org"
+        },
+        {
+            "type": "Email",
+            "url": "parliamentarians@worldbank.org"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/apidocs.data.world\/faq"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/WorldBank"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/worldbankdata"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/data.worldbank.org\/"
+        }
+    ]
+}
